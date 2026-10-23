@@ -4,6 +4,14 @@
 
 配套公众号文章《在 WorkBuddy 里说一句话，自动完成数据分析与制图》（可以叫我才哥）。
 
+<!-- caige-author:start -->
+**作者：才哥** · 微信公众号：**可以叫我才哥**
+
+微信扫码关注：
+
+<img src="assets/caige-wechat-qrcode.jpg" alt="微信公众号「可以叫我才哥」扫码关注二维码" width="172" height="172" />
+<!-- caige-author:end -->
+
 ## 一句话安装，一句话使用
 
 不需要手动 clone、不需要配环境、不需要写一行脚本。**装它和用它，都是在 WorkBuddy 对话里说一句话的事。**
